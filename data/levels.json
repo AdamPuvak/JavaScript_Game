@@ -1,0 +1,1015 @@
+{
+    "levels": [
+        {
+            "rows": [
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "start",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-mix",
+                    "lane": [
+                        2,
+                        4
+                    ]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-car",
+                    "lane": [
+                        1,
+                        3,
+                        5
+                    ]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [
+                        2,
+                        4
+                    ]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [
+                        1,
+                        2,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [
+                        1,
+                        2,
+                        3,
+                        5
+                    ]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [
+                        1,
+                        2,
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [
+                        2,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "start",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                }
+            ]
+        },
+        {
+            "rows": [
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "start",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [
+                        1,
+                        5
+                    ]
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [
+                        2,
+                        4
+                    ]
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [
+                        2,
+                        4
+                    ]
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [
+                        1,
+                        5
+                    ]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-car",
+                    "lane": [
+                        1,
+                        4
+                    ]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-car",
+                    "lane": [
+                        2,
+                        5
+                    ]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-car",
+                    "lane": [
+                        1,
+                        3
+                    ]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-car",
+                    "lane": [
+                        2,
+                        5
+                    ]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-car",
+                    "lane": [
+                        1,
+                        3
+                    ]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-car",
+                    "lane": [
+                        1,
+                        4
+                    ]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-car",
+                    "lane": [
+                        2,
+                        5
+                    ]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-car",
+                    "lane": [
+                        1,
+                        3
+                    ]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-car",
+                    "lane": [
+                        2,
+                        5
+                    ]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-car",
+                    "lane": [
+                        1,
+                        3
+                    ]
+                },
+                {
+                    "type": "start",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                }
+            ]
+        },
+        {
+            "rows":[
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "start",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type":"null",
+                    "lane":[]
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [1,3,4,5]
+                },
+                {
+                    "type": "road-car",
+                    "lane": [1,3,4,5]
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [1,3,4,5]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-car",
+                    "lane": [1,2,5]
+                },
+                {
+                    "type": "road-car",
+                    "lane": [1,3,5]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-mix",
+                    "lane": [2,4,5]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-mix",
+                    "lane": [1,3,4,5]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [1,2,4,5]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [1,3,5]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-car",
+                    "lane": [2,4]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [2,3,5]
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [1]
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [3,5]
+                },
+                {
+                    "type": "road-car",
+                    "lane": [1,2,3,5]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-car",
+                    "lane": [1,2,4,5]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "start",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                }
+            ]
+        },
+        {
+            "rows":[
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "start",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-mix",
+                    "lane": [1,2,3,4]
+                },
+                {
+                    "type": "road-mix",
+                    "lane": [1,2,3,4]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [2,3,4,5]
+                },
+                {
+                    "type": "road-car",
+                    "lane": [2,3,4,5]
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [2,3,4,5]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [2,3,4,5]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-car",
+                    "lane": [1,3,4,5]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [1,2,4,5]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-car",
+                    "lane": [1,3,4,5]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [2,3,4,5]
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [2,3,4,5]
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [2,3,4,5]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-mix",
+                    "lane": [1,2,5]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-mix",
+                    "lane": [1,4,5]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [1]
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [1,3]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [1,2,3]
+                },
+                {
+                    "type": "road-car",
+                    "lane": [1,2,3,4]
+                },
+                {
+                    "type": "road-car",
+                    "lane": [1,2,3,4]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-car",
+                    "lane": [1,2,4,5]
+                },
+                {
+                    "type": "road-car",
+                    "lane": [1,2,4,5]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "start",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                }
+            ]
+        },
+        {
+            "rows":[
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "start",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-car",
+                    "lane": [1,2]
+                },
+                {
+                    "type": "road-car",
+                    "lane": [1,2]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [3,4,5]
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [3,4,5]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-mix",
+                    "lane": [1,2,3,5]
+                },
+                {
+                    "type": "road-mix",
+                    "lane": [1,2,3,5]
+                },
+                {
+                    "type": "road-mix",
+                    "lane": [1,2,3,5]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [1,3,5]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [2,4]
+                },
+                {
+                    "type": "road-car",
+                    "lane": [2,4]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-mix",
+                    "lane": [1,2]
+                },
+                {
+                    "type": "road-mix",
+                    "lane": [2,3]
+                },
+                {
+                    "type": "road-mix",
+                    "lane": [3,4]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-mix",
+                    "lane": [3,5]
+                },
+                {
+                    "type": "road-mix",
+                    "lane": [3,5]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [1]
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [1,2]
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [1,2,3]
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [1,2,3,4]
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [1,2,3,4]
+                },
+                {
+                    "type": "road-bush",
+                    "lane": [1,2,3,4]
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "start",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                },
+                {
+                    "type": "null",
+                    "lane": []
+                }
+            ]
+        }
+    ]
+}

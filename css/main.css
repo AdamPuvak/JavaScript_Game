@@ -1,0 +1,174 @@
+@font-face {
+    font-family:'Retro';
+    src: url(../font/PixelifySans-VariableFont_wght.ttf);
+}
+
+html{
+    font-family: 'Retro';
+}
+
+body {
+    background-image: url("../images/backg.jpg");
+    background-size:auto;
+    overflow: hidden;
+}
+
+#track{
+    position: absolute;
+    left: 25.5vw;
+    top: 0;
+}
+
+#title , #startScreen, #credits{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #000000be;
+    color: #ffffff;
+    text-align: center;
+    font-size: 5vh;
+    z-index: 6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#title img{
+    border-radius: 10%;
+    border: #87cc76 4px solid;
+    margin-top: 1%;
+    width: 20vw;
+    height: 20vw;
+}
+
+#settings {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #000000be;
+    color: #ffffff;
+    text-align: center;
+    font-size: 5vh;
+    z-index: 6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#settings-menu {
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 50vh;
+    justify-content: space-around;
+}
+
+#settings-menu-right , #settings-menu-left{
+    width: 10vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#countdown{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    color: #000000;
+    text-align: center;
+    font-size: 10vh;
+    z-index: 6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    visibility: hidden;
+}
+
+#countdown-text{
+    background-color: #ffffff;
+    width: 20vw;
+    border: 5px solid #000000;
+    border-radius: 50%;
+}
+.but{
+    user-select: none;
+}
+.but:hover{
+    color: gray;
+    cursor: default;
+}
+
+#win ,#lost{
+    visibility: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #000000be;
+    color: #ffffff;
+    text-align: center;
+    font-size: 5vh;
+    z-index: 6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+    width: 70vw;
+    justify-content: space-evenly;
+}
+
+#levels{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    color: #ffffff;
+    background-color: #000000be;
+    text-align: center;
+    font-size: 5vh;
+    z-index: 6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#levels-menu{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    height: 65vh;
+    align-content: center;
+}
+
+.level-mini{
+    width: 30vh;
+    height: 30vh;
+    margin: 1vw;
+    border: 5px solid #000000;
+    font-size: 5vw;
+    border-radius: 10%;
+    color: #ff0000;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}

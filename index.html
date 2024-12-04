@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" href="./images/logo.png">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" href="./css/main.css">
+    <script src="./components/car.js" type="module"></script>
+    <script src="./components/road.js" type="module"></script>
+    <script src="./components/player.js" type="module"></script>
+    <script src="./components/bush.js" type="module"></script>
+    <script src="./components/bush2.js" type="module"></script>
+    <script src="./components/road-start.js" type="module"></script>
+    <script src="./components/road-mix.js" type="module"></script>
+    <script src="./components/road-bush.js" type="module"></script>
+    <script src="./components/road-car.js" type="module"></script>
+    <script src="./functionality/gameFlow.js" type="module"></script>
+    <title>Game</title>
+</head>
+
+<body>
+    <div id="startScreen" style="visibility: visible;">
+        <h1 id="angletest">Tap to play</h1>
+    </div>
+    <div id="title" style="visibility: hidden"> <!--toggle visibility to see menu-->
+        <img src="./images/logo.png" alt="" width="400" height="400">
+        <div id="title-menu">
+            <h3 id="start" class="but">Start</h3>
+            <h3 id="levelsbut" class="but">Levels</h3>
+            <h3 id="settingsbut" class="but">Settings</h3>
+        </div>
+    </div>
+
+    <div id="countdown">
+        <h1 id="countdown-text">3</h1>
+    </div>
+
+    <div id="settings" style="visibility: hidden;"> <!--toggle visibility to see settings-->
+        <h3>Settings</h3>
+        <div id="settings-menu">
+            <div id="settings-menu-left">
+                <h4 class="but" id="diffbut">Difficulty</h4>
+                <h4 class="but" id="soundbut">Sound</h4>
+                <h4 class="but" id="controlbut">Controls</h4>
+            </div>
+            <div id="settings-menu-right">
+                <h4 id="difftext">0</h4>
+                <h4 id="soundtext">0</h4>
+                <h4 id="controltext">0</h4>
+            </div>
+        </div>
+        <h4 id="controlhelp">0</h4>
+        <h3 id="back" class="but">Back</h3>
+    </div>
+
+    <div id="levels" style="visibility: hidden;">
+        <h3>Levels</h3>
+        <div id="levels-menu">
+        </div>
+        <h3 id="back2" class="but">Back</h3>
+    </div>
+
+    <div id="win">
+        <img src="./images/trophy.png" alt="trophy.png" width="30">
+        <h1>You Win!</h1>
+        <div class="buttons">
+            <h3 id="restart" class="but">Restart</h3>
+            <h3 id="menu" class="but">Menu</h3>
+            <h3 id="next" class="but">Next Level</h3>
+        </div>
+    </div>
+
+    <div id="lost">
+        <img src="./images/skull.png" alt="skull.png" width="30">
+        <h1>Try again!</h1>
+        <div class="buttons">
+            <h3 id="restart2" class="but">Restart</h3>
+            <h3 id="menu2" class="but">Menu</h3>
+        </div>
+    </div>
+
+    <div id="credits" style="visibility: hidden;">
+        <h1>Thanks for playing the game</h1>
+        <h3>Game made by:</h3>
+        <h3>Jozef Nyitrai</h3>
+        <h3>Adam Puvák</h3>
+        <br>
+        <h4 id="menu3" class="but">Menu</h4>
+    </div>
+
+    <div id="game">
+        <div id="track"></div>
+    </div>
+
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('./functionality/sw.js')
+                .then((registration) => {
+                    console.log('Service Worker registered with scope:', registration.scope);
+                })
+                .catch((error) => {
+                    console.error('Service Worker registration failed:', error);
+                });
+        }
+    </script>
+
+
+</body>
+
+</html>

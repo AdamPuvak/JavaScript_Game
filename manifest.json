@@ -1,0 +1,20 @@
+{
+    "name": "Super Racing",
+    "short_name": "Super Racing",
+    "description": "A racing game where you need to avoid obstacles",
+    "start_url": "index.html",
+    "orientation": "landscape",
+    "display": "fullscreen",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "android": {
+      "screenOrientation": "landscape"
+    },
+    "icons": [
+      {
+        "src": "./images/logo.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
