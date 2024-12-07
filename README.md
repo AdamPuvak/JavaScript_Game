@@ -12,16 +12,16 @@
 ## About The Project
 
 "Super racing" is a game in form of a PWA, where the player controls a car on a racetrack. The main objective is to avoid obstacles on the track and reach the finish line.
-The game features five levels, each with increasing difficulty and unique obstacle arrangements. The player can control the car using different input methods:
+Game features five levels, each with increasing difficulty and unique obstacle arrangements. Player can control the car using different input methods:
 
 **On mobile devices:** by tilting the device, leveraging the gyroscope.
 
 **On desktops:** using arrow keys or W, A, S, D, or by moving the mouse.
 
-## Objective:
+## Objective
 Navigate the racetrack, dodge obstacles, and complete all five levels to win the game!
 
-## Key Features and Functionality:
+## Key Features
 
 ### Responsive Design:
 The game can be played on mobile devices, tablets, and desktops.
@@ -33,19 +33,19 @@ Tasks are dynamically loaded from a JSON file, ensuring flexibility and enabling
 Tasks are randomized to avoid repetition in consecutive gameplay sessions.
 
 ### Progress Saving:
-The game saves the player's progress, so previously completed levels will not reappear until all tasks are completed.
+Game saves the player's progress, so previously completed levels will not reappear until all tasks are completed.
 This feature ensures continuity even if the game is paused or the device is turned off.
 
 ### Interactive Gameplay:
-The game ends a level when the player successfully reaches the finish line.
+Game ends a level when the player successfully reaches the finish line.
 Hints and instructions are available to help players overcome challenges.
 
 ### PWA Features:
-The game is a Progressive Web Application, allowing it to be installed and played offline.
+Game is a Progressive Web Application, allowing it to be installed and played offline.
 It includes a favicon and a clear title to enhance user experience.
 
 ### Player Guide:
-The game includes a comprehensive description and guide.
+Game includes a comprehensive description and guide.
 Instructions are tailored for both desktop and mobile devices.
 The guide is optimized for printing, excluding unnecessary gameplay elements like the racetrack or menus.
 
