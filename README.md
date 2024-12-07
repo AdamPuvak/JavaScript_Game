@@ -36,7 +36,7 @@ Tasks are randomized to avoid repetition in consecutive gameplay sessions.
 The game saves the player's progress, so previously completed levels will not reappear until all tasks are completed.
 This feature ensures continuity even if the game is paused or the device is turned off.
 
-###Interactive Gameplay:
+### Interactive Gameplay:
 The game ends a level when the player successfully reaches the finish line.
 Hints and instructions are available to help players overcome challenges.
 
